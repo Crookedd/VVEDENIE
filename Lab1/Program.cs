@@ -16,6 +16,5 @@ namespace ConsoleApp2
             Console.WriteLine($"Результат: {Result}");
             Console.ReadLine();
         }
-
     }
 }
