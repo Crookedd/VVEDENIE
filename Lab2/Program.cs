@@ -17,6 +17,7 @@ namespace ConsoleApp4
                 Digits[Digits.Length - 1] = SecondDigits;
                 Console.WriteLine($"Измененное число: {new string(Digits)}");
                 Console.ReadLine();
+                
             }
         }
     }
